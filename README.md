@@ -33,7 +33,6 @@ I'll break down the key areas of concern, offering clear explanations and pointi
 * **The Concern:** TikTok is owned by ByteDance, a Chinese company. Despite TikTok's claims of data segregation and U.S. data centers, persistent reports and internal communications have suggested that engineers and employees in China have had access to U.S. and other user data. This raises fears of potential influence or forced data disclosure to the Chinese government.
 * **Why it's a concern:** The legal framework in China (e.g., National Intelligence Law) can compel companies to cooperate with intelligence operations, potentially exposing user data to state actors.
 * **Reference:** [Leaked Audio From 80 Internal TikTok Meetings Shows That US User Data Has Been Repeatedly Accessed From China (Buzz Feed News, 2022)](https://www.buzzfeednews.com/article/emilybakerwhite/tiktok-tapes-us-user-data-china-bytedance-access)
-* **Reference:** [The US-China tech battle that could decide TikTok’s fate (BBC News, 2024)](https://www.bbc.com/news/technology-68875691)
 
 ### 4. **Algorithmic Influence & Content Manipulation**
 * **The Concern:** TikTok's "For You Page" algorithm is incredibly powerful and addictive. While not directly a privacy violation in the traditional sense, its ability to curate and push specific content raises concerns about potential manipulation, censorship, or the promotion of certain narratives.
